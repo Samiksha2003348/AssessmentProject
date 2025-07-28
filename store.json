@@ -1,0 +1,25 @@
+{
+  "stores": [
+    {
+      "id": 1,
+      "name": "FreshMart",
+      "email": "freshmart@example.com",
+      "address": "Mumbai",
+      "averageRating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Grocery King",
+      "email": "gking@example.com",
+      "address": "Delhi",
+      "averageRating": 4.2
+    },
+    {
+      "id": 3,
+      "name": "Daily Needs",
+      "email": "daily@example.com",
+      "address": "Pune",
+      "averageRating": 3.8
+    }
+  ]
+}
